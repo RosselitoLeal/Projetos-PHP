@@ -1,2 +1,2 @@
-# Projetos-CV
+# Currículo Vitae
 Amostra de currículo
